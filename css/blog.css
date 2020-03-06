@@ -1,9 +1,16 @@
+body{
+  background-image: url(../images/fondo.jpeg);
+}
+
+
 *{
     padding: 0;
     margin: 0;
 }
-html{
-    background-image: url(../images/fondo.jpeg);
+#lasec{
+    text-align: center;
+    text-shadow: darkgreen;
+    color: darkslateblue;
 }
 header{
     width: 100%;
@@ -30,18 +37,34 @@ header{
     background: black;
 }
 
+#main h3{
+  font-style: italic;
+}
+
+
 div{
-    background-color: #A0ED9B;
+    background-color: #F9E874;
     width: 550px;
-    border: 20px rgb(148, 255, 48) dashed;
-    padding: 20px;
+    border: 10px rgb(238, 158, 41) dashed;
+    padding: 60px;
     margin: auto;
     color:black;
-    font: 16px Arial Black;
+    font: 16px Arial;
+    text-align: justify;
 }
-img{
-    width: auto;
-    height: auto;
+#titl{
+    background-color: goldenrod;
+    width: 200px    ;
+    border: 10px rgb(238, 158, 41) groove;
+    padding: 60px;
+    margin: auto;
+    color:black;
+    font: 16px Arial;
+    text-align: center;
+}
+#main img{
+    width: 200px;
+    height: 150px;
 }
 ul.LISTA{
     list-style-type: square;

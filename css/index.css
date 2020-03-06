@@ -10,7 +10,6 @@ header{
     height: 40px;
     box-shadow: 1px 1px 5px #000;
     background-color: bisque;
-
 }
 #menu{
     width: 500px;
@@ -51,6 +50,14 @@ img{
     height: auto;
 }
 ul.LISTA{
+    list-style-type: square;
+    padding:10px;
+    padding-top: 20px;
+    margin-left: 35px;
+    color: black;
+}
+
+ul .lst{
     list-style-type: square;
     padding:10px;
     padding-top: 20px;
