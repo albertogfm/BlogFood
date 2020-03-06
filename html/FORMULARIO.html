@@ -1,0 +1,45 @@
+<!DOCTYPE HTML5>
+<HTML lang = "es-Es">
+    <head>
+        <meta charset ="utf-8">
+        <link rel="shortcut icon" type="image/x-icon" href="../images/coffe.png">
+        <link rel="stylesheet" type="text/css" href="../css/estilos.css">
+        <title>Registro Usuarios</title>
+    </head>
+    
+    <body>
+        <HEADER>
+            <SECTION id="menu">
+                <ul>
+                    <a href="index.html">INICIO</a>
+                    <a href="blog.html">BLOG</a>
+                    <a href="comida.html">COMIDA </a>
+                    <a href="FORMULARIO.html">FORMUALRIO</a>
+                </ul>
+            </SECTION>
+        </HEADER>
+        <div>
+        <form>
+            <p id="titleForm">REGISTRO USUARIOS</p>
+            <br>
+            <label for = "nombre:" > Nombre</label>
+            <input typer="text" placeholder="Escribe tu  nombre" id="nombre">
+            
+            <label for = "contraseña:" > Contraseña</label>
+            <input type="password" placeholder="Escribe tu  contraseña" id="nombre">
+
+            <label for = "Fecha:"  > Fecha</label>
+            <input id= "fecha" type="date" name="fecha" min="1900 -01-01" >
+            <br>    
+            <label for = "email"> Email:</label>
+            <input typer="email" placeholder="Escribe tu  correoo" id="email">
+            
+            <label for = "mensaje"> Descripción:</label>
+            <br>
+            <textarea id="mensaje" placeholder="Escribe tu descripción aqui"></textarea>
+            <br>
+            <input id="send "type="submit" value="Enviar">
+        </form>
+        </div>
+    </body>
+</HTML>

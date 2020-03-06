@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html{
+    background-image: url(../images/fondo.jpeg);
+}
+header{
+    width: 100%;
+    height: 40px;
+    box-shadow: 1px 1px 5px #000;
+    background-color: bisque;
+
+}
+#menu{
+    width: 500px;
+    padding-top: 10px;
+    margin: auto;
+    background-color: bisque;
+}
+#menu ul a{
+    color: blue;
+    text-decoration: none;
+    font: 16px Verdana;
+    padding: 15px 20px 12px 20px;
+    align-content: center;
+}
+#menu ul a:hover{
+    color: aliceblue;
+    background: black;
+}
+
+div{
+    background-color: #A0ED9B;
+    width: 550px;
+    border: 20px rgb(148, 255, 48) dashed;
+    padding: 20px;
+    margin: auto;
+    color:black;
+    font: 16px Arial Black;
+}
+img{
+    width: auto;
+    height: auto;
+}
+ul.LISTA{
+    list-style-type: square;
+    padding:10px;
+    padding-top: 20px;
+    margin-left: 35px;
+    color: black;
+}
