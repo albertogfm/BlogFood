@@ -1,9 +1,9 @@
 # BlogFood
 
 ## Integrantes 
-Alberto García Figueroa Munguía
-Bryan 
-Dani Boquer
+Alberto García Figueroa Munguía  
+Bryan   
+Dani Boquer  
 
 
 ## Description 
