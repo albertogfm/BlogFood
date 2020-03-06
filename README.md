@@ -1,6 +1,6 @@
 # BlogFood
 
-##Integrantes 
+## Integrantes 
 Alberto García Figueroa Munguía
 Bryan 
 Dani Boquer
