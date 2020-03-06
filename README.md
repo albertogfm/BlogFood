@@ -4,8 +4,7 @@
 Alberto García Figueroa Munguía  
 Bryan   
 Dani Boquer  
-
-
+Beto Najera  
 ## Description 
 Este proyecto es un pequeño blog food donde se tiene una página de inicio, la historia de la comida , unos platillos deliciosos y un formulario de registro.
 
