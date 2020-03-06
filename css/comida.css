@@ -50,3 +50,80 @@ ul.LISTA{
     margin-left: 35px;
     color: black;
 }
+
+.flex1{
+    display: flex;
+}
+
+.TacosPastor{
+    color: firebrick;
+    font-family: 'sans-serif';
+}
+.imagenTacos img{
+    width: 200px;
+}
+
+.flex2{
+    display: flex;
+}
+
+.Pozole{
+    color: firebrick;
+    font-family: 'sans-serif';
+}
+
+.imagenPozole img{
+    width: 200px;
+}
+
+.flex3{
+    display: flex;
+}
+
+.Hamburguesa{
+    color: firebrick;
+    font-family: 'sans-serif';
+}
+
+.imagenHam img{
+    width: 200px;
+}
+
+.flex4{
+    display: flex;
+}
+
+.Cereal{
+    color: firebrick;
+    font-family: 'sans-serif';
+}
+
+.imagenCer img{
+    width: 200px;
+}
+
+.flex5{
+    display: flex;
+}
+
+.Atun{
+    color: firebrick;
+    font-family: 'sans-serif';
+}
+
+.imagenAtun img{
+    width: 200px;
+}
+
+.flex6{
+    display: flex;
+}
+
+.Totopos{
+    color: firebrick;
+    font-family: 'sans-serif';
+}
+
+.imagenTotopo img{
+    width: 200px;
+}
