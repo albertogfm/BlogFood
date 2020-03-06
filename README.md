@@ -2,7 +2,7 @@
 
 ## Integrantes 
 Alberto García Figueroa Munguía  
-Bryan   
+Jesús Bryan Parada Pérez   
 Dani Boquer  
 Beto Najera  
 ## Description 
